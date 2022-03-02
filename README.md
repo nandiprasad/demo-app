@@ -1,5 +1,5 @@
-# Demo-app
-## Today git consepects:
+# Git-demo
+## Table of contents:
  - Version controle system
  - Version controle system types
  - Centralised VCS
