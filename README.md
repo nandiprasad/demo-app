@@ -7,7 +7,7 @@
  - Git installation & set up
  - initialising a repo.
  - Basic git commands:
-    - git add "<list of files>"
+    - git add "__list of files__"
        - git add --all
        - git add *.txt
        - git add docs.*.txt
