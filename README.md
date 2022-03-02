@@ -9,9 +9,17 @@
  - Basic git commands:
     - git add "--list of files--"
        ```- git add --all
+       ```
+       ```
        - git add *.txt
+       ```
+       ```
        - git add docs.*.txt
+       ```
+       ```
        - git add docs/
+       ```
+       ```
        - git add "*.txt" 
        ```
     - git reset
