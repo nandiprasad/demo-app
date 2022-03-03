@@ -30,5 +30,7 @@
     - git remote add origin git@github.com:xxx/app.git
     ```
     - git commit-m "adding the file hellow2"
-    - hello
+    ```
+    - git push origin --delete development
+    ```
 
