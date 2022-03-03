@@ -24,11 +24,14 @@
        - git add "*.txt" 
        ```
     - git reset
+
     - git status
     - git add hellow.txt
     ```
     - git remote add origin git@github.com:xxx/app.git
     ```
     - git commit-m "adding the file hellow2"
-    - hellow
+    ```
+    - git push origin --delete development
+    ```
 
