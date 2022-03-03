@@ -34,4 +34,13 @@
     ```
     - git push origin --delete development
     ```
+   ```
+    - git checkout main
+   ```
+   ```
+    - git push origin development
+   ```
+   ```
+   - git checkout -b "development"
+   ```
 
